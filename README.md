@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Siham2000
 - 👀 I’m interested in frontEnd 
-- 🌱 I’m currently learning JS + React.js
+- 🌱 JS + React.js Developer 
 - 📫 How to reach me Sihamananzh@outlook.sa
 
 <!---
